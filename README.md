@@ -2,7 +2,7 @@
 Konnichiwa !!! Watashi wa Sahil Kargutkar .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Views&color=blue&style=plastic" alt="sahilkargutkar" /> </p>
-
+<!--
 <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,7 +24,7 @@ Konnichiwa !!! Watashi wa Sahil Kargutkar .
 <a href="https://www.youtube.com/mtechviral/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+-->
 <br/>
 <br/>   
 
