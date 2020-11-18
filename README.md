@@ -49,9 +49,6 @@ Konnichiwa !!! Watashi wa Sahil Kargutkar .
 <a href="https://github.com/sahilkargutkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkargutkar&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/sahilkargutkar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkargutkar&show_icons=true&theme=dark&line_height=27" alt="Sahil's github stats"/>
-</a>
 
 <div align="center">
 
