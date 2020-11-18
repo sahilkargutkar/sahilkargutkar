@@ -52,7 +52,6 @@ Konnichiwa !!! Watashi wa Sahil Kargutkar .
 <a href="https://github.com/sahilkargutkar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkargutkar&show_icons=true&theme=dark&line_height=27" alt="Sahil's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil&repo=FlutterExampleApps&theme=dark" />
 
 <div align="center">
