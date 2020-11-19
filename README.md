@@ -28,7 +28,7 @@
 - 💬 Ask me about Java/Spring
 - 📫 How to reach me: sahilkargutkar.sk@gmail.com
 - 😄 Pronouns:He/Hee/Heee
-- ⚡ Fun fact: I watch lot of anime's & intrested in e-sports
+- ⚡ Fun fact: I watch lot of Anime's & Intrested in E-sports.
 
 <img src ="https://github-readme-stats.vercel.app/api?username=sahilkargutkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 **Languages and Tools:**  
