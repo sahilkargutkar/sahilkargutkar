@@ -21,12 +21,12 @@
 <br/>
 <br/>   
 
-- 🔭 I’m currently working on Rest Api's
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Java and open source projects
-- 🤔 I’m looking for help with Javascript and MongoDB
-- 💬 Ask me about Java/Spring
-- 📫 How to reach me: sahilkargutkar.sk@gmail.com
+- 🔭 I’m currently working on JavaScript.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Java and Open source projects.
+- 🤔 I’m looking for help with MERN stack and Node.js 
+- 💬 Ask me about Java/Spring.
+- 📫 How to reach me: sahilkargutkar.sk@gmail.com.
 - 😄 Pronouns:He/Hee/Heee
 - ⚡ Fun fact: I watch lot of Anime's & Intrested in E-sports.
 
