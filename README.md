@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Java and Open source projects.
-- 🤔 I’m looking for help with MERN stack and Node.js 
+- 🤔 I’m looking for help with React and Node.js 
 - 💬 Ask me about Java/Spring.
 - 📫 How to reach me: <a href="sahilkargutkar.sk@gmail.com">E-mail</a>.
 - 😄 Pronouns:He/Hee/Heee
