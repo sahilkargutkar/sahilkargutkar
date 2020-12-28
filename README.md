@@ -21,12 +21,12 @@
 <br/>
 <br/>   
 
-- 🔭 I’m currently working on JavaScript.
+- 🔭 I’m currently working on MERN.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Java and Open source projects.
+- 👯 I’m looking to collaborate on Java/J2EE and Open source projects.
 - 🤔 I’m looking for help with React and Node.js 
-- 💬 Ask me about Java/Spring.
-- 📫 How to reach me: <a href="sahilkargutkar.sk@gmail.com">E-mail</a>.
+- 💬 Ask me about Java/J2EE .
+- 📫 How to reach me: <a href="www.linkedin.com/in/sahilkar99">E-mail</a>.
 - 😄 Pronouns:He/Hee/Heee
 - ⚡ Fun fact: I watch lot of Anime's & Intrested in E-sports.
 
