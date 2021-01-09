@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on Java/J2EE and Open source projects.
 - 🤔 I’m looking for help with React and Node.js 
 - 💬 Ask me about Java/J2EE .
-- 📫 How to reach me: <a href="www.linkedin.com/in/sahilkar99">E-mail</a>.
+- 📫 How to reach me: <a href="http://www.linkedin.com/in/sahilkar99">LinkedIn</a>.
 - 😄 Pronouns:He/Hee/Heee
 - ⚡ Fun fact: I watch lot of Anime's & Intrested in E-sports.
 
