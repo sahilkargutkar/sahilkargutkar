@@ -1,5 +1,5 @@
 
-<h1><strong>Konnichiwa !!! Boku wa Sahil Kargutkar</strong></h1>
+<h1><strong>Hi I am Sahil Kargutkar</strong></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Views&color=red&style=plastic" alt="sahilkargutkar" /> </p>
 
 <a href="https://twitter.com/Sahil90762340">
@@ -22,13 +22,13 @@
 <br/>   
 
 - 🔭 I’m currently working on MERN.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Java/J2EE and Open source projects.
-- 🤔 I’m looking for help with React and Node.js 
-- 💬 Ask me about Java/J2EE .
+- 🌱 I’m currently learning Angular.
+- 👯 I’m looking to collaborate on Front-End and Open source projects.
+- 🤔 I’m looking for help with Angular Projects  
+- 💬 Ask me about Java/J2EE and MERN .
 - 📫 How to reach me: <a href="http://www.linkedin.com/in/sahilkar99">LinkedIn</a>.
 - 😄 Pronouns:He/Hee/Heee
-- ⚡ Fun fact: I watch lot of Anime's & Intrested in E-sports.
+- ⚡ Fun fact: I am Intrested in E-sports and love Sci-FI movies/anime 
 
 
 **Languages and Tools:**  
