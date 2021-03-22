@@ -1,5 +1,5 @@
 
-<h1><strong>Hi I am Sahil Kargutkar</strong></h1>
+<h1><strong>Boku wa Sahil Kargutkar</strong></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Views&color=red&style=plastic" alt="sahilkargutkar" /> </p>
 
 <a href="https://twitter.com/Sahil90762340">
@@ -22,9 +22,9 @@
 <br/>   
 
 - 🔭 I’m currently working on MERN.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Three.JS.
 - 👯 I’m looking to collaborate on Front-End and Open source projects.
-- 🤔 I’m looking for help with Angular Projects  
+- 🤔 I’m looking for help with Vue JS.  
 - 💬 Ask me about Java/J2EE and MERN .
 - 📫 How to reach me: <a href="http://www.linkedin.com/in/sahilkar99">LinkedIn</a>.
 - 😄 Pronouns:He/Hee/Heee
@@ -35,10 +35,11 @@
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 <a href="https://github.com/sahilkargutkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkargutkar&theme=dark&hide_langs_below=1" />
