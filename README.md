@@ -1,6 +1,8 @@
 
 <h1><strong>Boku wa Sahil Kargutkar</strong></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Profile Views&color=red&style=plastic" alt="sahilkargutkar" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Profile Views&color=red&style=flat" alt="sahilkargutkar" /> &nbsp<img src="https://visitor-badge.glitch.me/badge?page_id=sahilkargutkar.sahilkargutkar" /></p>
+
 
 <a href="https://twitter.com/Sahil90762340">
   <img align="left" alt="Sahil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
