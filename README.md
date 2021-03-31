@@ -43,9 +43,11 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
+
+
+<p align="left">
 <a href="https://github.com/sahilkargutkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkargutkar&theme=dark&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkargutkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkargutkar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/sahilkargutkar">
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=sahilkargutkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</a>
+</p>
