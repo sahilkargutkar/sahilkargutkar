@@ -1,49 +1,63 @@
+<h1 align="center"><strong>Boku wa Sahil Kargutkar</strong></h1>
 
-<h1><strong>Boku wa Sahil Kargutkar</strong></h1>
+<div style="text-align:center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Profile Views&color=red&style=flat" alt="sahilkargutkar" /> &nbsp<img src="https://visitor-badge.glitch.me/badge?page_id=sahilkargutkar.sahilkargutkar" /></p>
+![sahil](https://komarev.com/ghpvc/?username=sahilkargutkar&label=Profile)
+![sahil](https://visitor-badge.glitch.me/badge?page_id=sahilkargutkar.sahilkargutkar)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://sahilkargutkar.github.io/MyResume/)
+[![](https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar.svg)](https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar)
 
+</div>
 
+<div style="text-align:center">
 <a href="https://twitter.com/Sahil90762340">
-  <img align="left" alt="Sahil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="sahil's twitter" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 </a>
 <a href="www.linkedin.com/in/sahilkar99">
-  <img align="left" alt="Sahil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
 <a href="https://github.com/sahilkargutkar">
-  <img align="left" alt="Sahil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/github.png"/>
 </a>
 <a href="https://instagram.com/optimemeist/">
-  <img align="left" alt="sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 <a href="https://www.facebook.com/sahil.kargutkar.58/">
-  <img align="left" alt="Sahil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" />
 </a>
+</div>
 
 <br/>
-<br/>   
+<br/>
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px" />
 
 - 🔭 I’m currently working on MERN.
-- 🌱 I’m currently learning Three.JS.
+- 🌱 I’m currently learning NEXT.JS.
 - 👯 I’m looking to collaborate on Front-End and Open source projects.
-- 🤔 I’m looking for help with Vue JS.  
+- 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Java/J2EE and MERN .
 - 📫 How to reach me: <a href="http://www.linkedin.com/in/sahilkar99">LinkedIn</a>.
 - 😄 Pronouns:He/Hee/Heee
-- ⚡ Fun fact: I am Intrested in E-sports and love Sci-FI movies/anime 
+- ⚡ Fun fact: I am Intrested in E-sports and love Anime
 
+**Languages and Tools:**
 
-**Languages and Tools:**  
+<p align="center">
+<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" /> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" alt="Node-Js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/ffffff/mongodb.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/ffffff/dart.png" alt="dart" width="40" height="40" />
+</p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-
-
+**My Github Stats:**
 
 <p align="left">
 <a href="https://github.com/sahilkargutkar">
@@ -51,3 +65,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkargutkar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+**My Coding Timeline:**
+
+<img src="https://wakatime.com/share/@ad111a0f-5b8c-458c-8be7-48802943bd23/9d14cf0c-27fe-4fc1-8298-e66b2236c4de.svg" height="300px"/>
