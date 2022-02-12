@@ -1,31 +1,13 @@
 <h1 align="center"><strong>Boku wa Sahil Kargutkar</strong></h1>
 
-<div style="text-align:center">
+<p align="center">
+<a href="https://www.sahilkargutkar.me/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>&nbsp;
+<a href="https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar"><img src="https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar.svg?style=for-the-badge" alt="Wakatime" /></a>&nbsp;
+<a href="https://github.com/sahilkargutkar?tab=repositories"><img src="https://visitor-badges.glitch.me?username=sahilkargutkar&repo=README.md&style=for-the-badge&label=Profile&nbsp;Visits&color=red" alt="Readme Visits" /></a>&nbsp;
 
-![sahil](https://komarev.com/ghpvc/?username=sahilkargutkar&label=Profile)
-![sahil](https://visitor-badge.glitch.me/badge?page_id=sahilkargutkar.sahilkargutkar)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://sahilkargutkar.github.io/MyResume/)
-[![](https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar.svg)](https://wakatime.com/badge/github/sahilkargutkar/sahilkargutkar)
+</p>
 
-</div>
 
-<div style="text-align:center">
-<a href="https://twitter.com/Sahil90762340">
-  <img align="left" alt="sahil's twitter" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
-</a>
-<a href="www.linkedin.com/in/sahilkar99">
-  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
-</a>
-<a href="https://github.com/sahilkargutkar">
-  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/github.png"/>
-</a>
-<a href="https://instagram.com/optimemeist/">
-  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
-</a>
-<a href="https://www.facebook.com/sahil.kargutkar.58/">
-  <img align="left" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" />
-</a>
-</div>
 
 <br/>
 <br/>
@@ -33,13 +15,12 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px" />
 
 - 🔭 I’m currently working on MERN.
-- 🌱 I’m currently learning NEXT.JS.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Front-End and Open source projects.
-- 🤔 I’m looking for help with Flutter.
-- 💬 Ask me about Java/J2EE and MERN .
-- 📫 How to reach me: <a href="http://www.linkedin.com/in/sahilkar99">LinkedIn</a>.
-- 😄 Pronouns:He/Hee/Heee
-- ⚡ Fun fact: I am Intrested in E-sports and love Anime
+- 🤔 I’m looking for help with NEXT.JS.
+- 💬 Ask me about MERN/NEXT.JS .
+- 📫 How to reach me: <a href="http://mail.to:sahilkargutkar.sk@gmail.com">Mail </a>.
+- ⚡ Fun fact: I am Intrested in E-sports and love watching Anime.
 
 **Languages and Tools:**
 
@@ -67,5 +48,6 @@
 </p>
 
 **My Coding Timeline:**
-
+<p align="center">
 <img src="https://wakatime.com/share/@ad111a0f-5b8c-458c-8be7-48802943bd23/9d14cf0c-27fe-4fc1-8298-e66b2236c4de.svg" height="300px"/>
+</p>
