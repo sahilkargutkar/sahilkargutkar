@@ -47,7 +47,3 @@
 </a>
 </p>
 
-**My Coding Timeline:**
-<p align="center">
-<img src="https://wakatime.com/share/@ad111a0f-5b8c-458c-8be7-48802943bd23/45de14ec-267b-4165-ba05-c9d6c3e4ce3a.png" height="100px"/>
-</p>
